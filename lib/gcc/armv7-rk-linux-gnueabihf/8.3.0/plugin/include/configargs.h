@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/Volumes/AOSP/crosstool/.build/armv7-rk-linux-gnueabihf/src/gcc/configure --build=x86_64-build_apple-darwin20.5.0 --host=x86_64-build_apple-darwin20.5.0 --target=armv7-rk-linux-gnueabihf --prefix=/Volumes/AOSP/x-tools/armv7-rk-linux-gnueabihf --with-sysroot=/Volumes/AOSP/x-tools/armv7-rk-linux-gnueabihf/armv7-rk-linux-gnueabihf/sysroot --enable-languages=c,c++ --with-cpu=cortex-a7 --with-fpu=neon-vfpv4 --with-float=hard --with-pkgversion='crosstool-NG 1.24.0' --enable-__cxa_atexit --disable-libmudflap --disable-libgomp --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libsanitizer --disable-libmpx --with-gmp=/Volumes/AOSP/crosstool/.build/armv7-rk-linux-gnueabihf/buildtools --with-mpfr=/Volumes/AOSP/crosstool/.build/armv7-rk-linux-gnueabihf/buildtools --with-mpc=/Volumes/AOSP/crosstool/.build/armv7-rk-linux-gnueabihf/buildtools --with-isl=/Volumes/AOSP/crosstool/.build/armv7-rk-linux-gnueabihf/buildtools --enable-lto --enable-threads=posix --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-multilib --with-local-prefix=/Volumes/AOSP/x-tools/armv7-rk-linux-gnueabihf/armv7-rk-linux-gnueabihf/sysroot --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "cortex-a7" }, { "float", "hard" }, { "fpu", "neon-vfpv4" }, { "tls", "gnu" } };
